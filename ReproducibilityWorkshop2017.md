@@ -24,7 +24,7 @@
 -  8:45 am ACM Reproducibility Taxonomy, Ron Boisvert
 -  9:15 am Science Reproducibility Taxonomy, Lorena Barba
 -  9:45 am Break
-- 10:30 am Scenario Descriptions [(editable Google Doc)[(https://docs.google.com/document/d/16E2_xW7QjT9MW9juSxvFwTPyBbFDJHfH7VVNC9yQmec/edit?usp=sharing)
+- 10:30 am Scenario Descriptions [(editable Google Doc)](https://docs.google.com/document/d/16E2_xW7QjT9MW9juSxvFwTPyBbFDJHfH7VVNC9yQmec/edit?usp=sharing)
 - 11:00 am Characterization of Scenarios I
 - 12:00 pm Lunch
 -  1:30 pm Characterization of Scenarios II
