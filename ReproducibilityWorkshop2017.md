@@ -11,7 +11,6 @@
 - Juliana Freire, NYU
 - Abani Patra, DOE
 - Mike Heroux, Sandia
-- Roger Peng, Johns Hopkins (unconfirmed)
 - Jeff Spies, COS
 - Victoria Stodden, UIUC
 - Michela Taufer, U Delaware
