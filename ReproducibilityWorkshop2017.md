@@ -9,8 +9,9 @@
 - Bruce Childers, U Pittsburgh
 - Almadena Chtchelkanova, NSF
 - Juliana Freire, NYU
-- Abani Patra, DOE
 - Mike Heroux, Sandia
+- Abani Patra, DOE
+- Wilf Pinfold, Modelado
 - Jeff Spies, COS
 - Victoria Stodden, UIUC
 - Michela Taufer, U Delaware
