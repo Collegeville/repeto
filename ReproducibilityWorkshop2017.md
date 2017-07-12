@@ -10,6 +10,7 @@
 - Almadena Chtchelkanova, NSF
 - Juliana Freire, NYU
 - Mike Heroux, Sandia
+- Carlos Maltzahn, UCSC
 - Abani Patra, DOE
 - Wilf Pinfold, Modelado
 - Jeff Spies, COS
