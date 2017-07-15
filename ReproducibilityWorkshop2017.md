@@ -20,7 +20,7 @@
 ### Pre-meeting Actions
 
 - Please review, and comment or edit the [Scenario Descriptions (editable Google Doc)](https://docs.google.com/document/d/16E2_xW7QjT9MW9juSxvFwTPyBbFDJHfH7VVNC9yQmec/edit?usp=sharing).
-- Please add and review [reference materials](https://docs.google.com/document/d/1Ef_gsG0zB15m8spLvKS5EBaohwKofboiClmswFXTk1I/edit?usp=sharing).
+- Please add and review [reference materials (editable Google Doc)](https://docs.google.com/document/d/1Ef_gsG0zB15m8spLvKS5EBaohwKofboiClmswFXTk1I/edit?usp=sharing).
 
 ### Agenda
 
