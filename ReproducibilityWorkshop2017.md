@@ -6,6 +6,7 @@
 ### Attendees:
 - Lorena Barba, GWU
 - Ronald Boisvert, NIST
+- Dylan Chapp, U Deleware, scribe
 - Bruce Childers, U Pittsburgh
 - Almadena Chtchelkanova, NSF
 - Juliana Freire, NYU
