@@ -27,11 +27,12 @@
 ### Agenda
 
 -  8:00 am Opening remarks, Almadena Chtchelkanova
--  8:10 am Workshop goals, Mike Heroux
--  8:15 am Reproducibility Background, Victoria Stodden
--  8:45 am ACM Reproducibility Taxonomy, Ron Boisvert
--  9:15 am Science Reproducibility Taxonomy, Lorena Barba
--  9:45 am Break
+-  8:10 am Introductions
+-  8:20 am Workshop goals, Mike Heroux
+-  8:30 am Reproducibility Background, Victoria Stodden
+-  9:00 am ACM Reproducibility Taxonomy, Ron Boisvert
+-  9:30 am Science Reproducibility Taxonomy, Lorena Barba
+- 10:00 am Break
 - 10:30 am Scenario Descriptions [(editable Google Doc)](https://docs.google.com/document/d/16E2_xW7QjT9MW9juSxvFwTPyBbFDJHfH7VVNC9yQmec/edit?usp=sharing)
 - 11:00 am Characterization of Scenarios I
 - 12:00 pm Lunch
