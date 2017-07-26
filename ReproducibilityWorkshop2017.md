@@ -19,10 +19,6 @@
 - Victoria Stodden, UIUC
 - Michela Taufer, U Delaware
 
-### Pre-meeting Actions
-
-- Please review, and comment or edit the [Scenario Descriptions (editable Google Doc)](https://docs.google.com/document/d/16E2_xW7QjT9MW9juSxvFwTPyBbFDJHfH7VVNC9yQmec/edit?usp=sharing).
-- Please add and review [reference materials (editable Google Doc)](https://docs.google.com/document/d/1Ef_gsG0zB15m8spLvKS5EBaohwKofboiClmswFXTk1I/edit?usp=sharing).
 
 ### Agenda
 
@@ -33,7 +29,7 @@
 -  9:00 am ACM Reproducibility Taxonomy, Ron Boisvert
 -  9:30 am Science Reproducibility Taxonomy, Lorena Barba
 - 10:00 am Break
-- 10:30 am Scenario Descriptions [(editable Google Doc)](https://docs.google.com/document/d/16E2_xW7QjT9MW9juSxvFwTPyBbFDJHfH7VVNC9yQmec/edit?usp=sharing)
+- 10:30 am Scenario Descriptions
 - 11:00 am Characterization of Scenarios I
 - 12:00 pm Lunch
 -  1:30 pm Characterization of Scenarios II
@@ -51,6 +47,3 @@ The purpose of this workshop is *not* to create a single taxonomy.  The hope is 
 Reproducibility is at the heart of the scientific method.  In order to differentiate approaches and degrees of reproducibility, research communities use synonyms such as replicate and repeat to convey specific kinds of reproducibility.  In these efforts, incompatible definitions can and have emerged.  While differences are not desirable, with proper context we can communicate within and across communities, if competing definitions are clearly described.
 
 It is well known that there are at least two competing taxonomies that have significant communities and significant overlap within computing and computational sciences.  The situation leads to confusion among researchers who work across these communities.
-
-### Reference Materials
-Please add relevant reference materials to [this Google Doc](https://docs.google.com/document/d/1Ef_gsG0zB15m8spLvKS5EBaohwKofboiClmswFXTk1I/edit?usp=sharing).
