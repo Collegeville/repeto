@@ -47,3 +47,6 @@ The purpose of this workshop is *not* to create a single taxonomy.  The hope is 
 Reproducibility is at the heart of the scientific method.  In order to differentiate approaches and degrees of reproducibility, research communities use synonyms such as replicate and repeat to convey specific kinds of reproducibility.  In these efforts, incompatible definitions can and have emerged.  While differences are not desirable, with proper context we can communicate within and across communities, if competing definitions are clearly described.
 
 It is well known that there are at least two competing taxonomies that have significant communities and significant overlap within computing and computational sciences.  The situation leads to confusion among researchers who work across these communities.
+
+
+<p><small>&copy; 2017-2019 Michael A. Heroux. Code under <a href="https://opensource.org/license/mit">MIT</a>, content under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</small></p>
